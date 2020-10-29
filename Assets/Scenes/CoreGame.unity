@@ -366,8 +366,8 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_text: Success!
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 657a41bc2b7cb411dab5c32d156241bc, type: 2}
-  m_sharedMaterial: {fileID: 21781249363577584, guid: 657a41bc2b7cb411dab5c32d156241bc,
+  m_fontAsset: {fileID: 11400000, guid: 6901def2ca65a46f49bba9f44f88fc56, type: 2}
+  m_sharedMaterial: {fileID: 21473432214765086, guid: 6901def2ca65a46f49bba9f44f88fc56,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -688,8 +688,9 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_text: ????
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 6b662deaab8314bb3b49066471793f70, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 6b662deaab8314bb3b49066471793f70, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 6901def2ca65a46f49bba9f44f88fc56, type: 2}
+  m_sharedMaterial: {fileID: 21473432214765086, guid: 6901def2ca65a46f49bba9f44f88fc56,
+    type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -848,8 +849,8 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_text: It is Lower
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 657a41bc2b7cb411dab5c32d156241bc, type: 2}
-  m_sharedMaterial: {fileID: 21781249363577584, guid: 657a41bc2b7cb411dab5c32d156241bc,
+  m_fontAsset: {fileID: 11400000, guid: 6901def2ca65a46f49bba9f44f88fc56, type: 2}
+  m_sharedMaterial: {fileID: 21473432214765086, guid: 6901def2ca65a46f49bba9f44f88fc56,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -1258,7 +1259,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1139457624}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0a9a453b1a3437842a6e323d213be095, type: 3}
+  m_Script: {fileID: 11500000, guid: 61b6f33fad5884ee9b6a52ea83753ed4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   max: 1000
@@ -1433,7 +1434,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1682828267}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 64958c35e939e7649902f71e0e3f5590, type: 3}
+  m_Script: {fileID: 11500000, guid: d0439fe46d9b84b5184e5fb11e4b1423, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!4 &1682828269
@@ -1689,8 +1690,8 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_text: It is Higher
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 657a41bc2b7cb411dab5c32d156241bc, type: 2}
-  m_sharedMaterial: {fileID: 21781249363577584, guid: 657a41bc2b7cb411dab5c32d156241bc,
+  m_fontAsset: {fileID: 11400000, guid: 6901def2ca65a46f49bba9f44f88fc56, type: 2}
+  m_sharedMaterial: {fileID: 21473432214765086, guid: 6901def2ca65a46f49bba9f44f88fc56,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}

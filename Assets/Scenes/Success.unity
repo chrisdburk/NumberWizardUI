@@ -171,8 +171,8 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_text: Play Again?
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 657a41bc2b7cb411dab5c32d156241bc, type: 2}
-  m_sharedMaterial: {fileID: 21642111903910848, guid: 657a41bc2b7cb411dab5c32d156241bc,
+  m_fontAsset: {fileID: 11400000, guid: 6901def2ca65a46f49bba9f44f88fc56, type: 2}
+  m_sharedMaterial: {fileID: 21473432214765086, guid: 6901def2ca65a46f49bba9f44f88fc56,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -198,8 +198,8 @@ MonoBehaviour:
   m_outlineColor:
     serializedVersion: 2
     rgba: 4278190080
-  m_fontSize: 48
-  m_fontSizeBase: 48
+  m_fontSize: 58
+  m_fontSizeBase: 58
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -313,7 +313,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1135813271}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 64958c35e939e7649902f71e0e3f5590, type: 3}
+  m_Script: {fileID: 11500000, guid: d0439fe46d9b84b5184e5fb11e4b1423, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &1335477270
@@ -457,8 +457,8 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_text: Well Done!! I guessed your number!  Want to play again?
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 657a41bc2b7cb411dab5c32d156241bc, type: 2}
-  m_sharedMaterial: {fileID: 21642111903910848, guid: 657a41bc2b7cb411dab5c32d156241bc,
+  m_fontAsset: {fileID: 11400000, guid: 6901def2ca65a46f49bba9f44f88fc56, type: 2}
+  m_sharedMaterial: {fileID: 21473432214765086, guid: 6901def2ca65a46f49bba9f44f88fc56,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -484,8 +484,8 @@ MonoBehaviour:
   m_outlineColor:
     serializedVersion: 2
     rgba: 4278190080
-  m_fontSize: 48
-  m_fontSizeBase: 48
+  m_fontSize: 58
+  m_fontSizeBase: 58
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
